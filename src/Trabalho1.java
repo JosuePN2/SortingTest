@@ -597,7 +597,7 @@ public class Trabalho1 {
 		
 		//PARTE 1 DO TRABALHO:
 		
-		File arq = new File("C:\\Users\\josue\\nomes.txt");
+		File arq = new File("nomes.txt");
 		
 		FileReader arq2 = new FileReader(arq);
 
